@@ -1,0 +1,11 @@
+Model Information:
+* title:	Itto - Genshin Impact
+* source:	https://sketchfab.com/3d-models/itto-genshin-impact-fa56de75bef1462185ad626535b8181a
+* author:	Mezuru (https://sketchfab.com/MeZuRu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Itto - Genshin Impact" (https://sketchfab.com/3d-models/itto-genshin-impact-fa56de75bef1462185ad626535b8181a) by Mezuru (https://sketchfab.com/MeZuRu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

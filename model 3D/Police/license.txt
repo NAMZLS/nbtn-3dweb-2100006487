@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ford Mondeo Police (NYPD)
+* source:	https://sketchfab.com/3d-models/ford-mondeo-police-nypd-5416965277554e7682fcc2dc4961a99d
+* author:	TSB3DMODELS (https://sketchfab.com/TSB3DMODELS)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ford Mondeo Police (NYPD)" (https://sketchfab.com/3d-models/ford-mondeo-police-nypd-5416965277554e7682fcc2dc4961a99d) by TSB3DMODELS (https://sketchfab.com/TSB3DMODELS) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Qiqi - Genshin impact
+* source:	https://sketchfab.com/3d-models/qiqi-genshin-impact-2b4ec2050b3841299fc915603adbc93e
+* author:	Mezuru (https://sketchfab.com/MeZuRu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Qiqi - Genshin impact" (https://sketchfab.com/3d-models/qiqi-genshin-impact-2b4ec2050b3841299fc915603adbc93e) by Mezuru (https://sketchfab.com/MeZuRu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

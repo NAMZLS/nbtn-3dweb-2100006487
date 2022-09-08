@@ -1,0 +1,11 @@
+Model Information:
+* title:	Keqing - Genshin Impact
+* source:	https://sketchfab.com/3d-models/keqing-genshin-impact-e7975d75f5c54d629d3d6f0bcb73a3bc
+* author:	Mezuru (https://sketchfab.com/MeZuRu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Keqing - Genshin Impact" (https://sketchfab.com/3d-models/keqing-genshin-impact-e7975d75f5c54d629d3d6f0bcb73a3bc) by Mezuru (https://sketchfab.com/MeZuRu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

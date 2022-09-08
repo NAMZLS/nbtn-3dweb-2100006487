@@ -1,0 +1,11 @@
+Model Information:
+* title:	LAMBORGHINI MURCIÉLAGO R-SV GT1
+* source:	https://sketchfab.com/3d-models/lamborghini-murcielago-r-sv-gt1-89e6eec05895433e9e6b5f86b3cb6d82
+* author:	All-Wide (https://sketchfab.com/dsm350)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LAMBORGHINI MURCIÉLAGO R-SV GT1" (https://sketchfab.com/3d-models/lamborghini-murcielago-r-sv-gt1-89e6eec05895433e9e6b5f86b3cb6d82) by All-Wide (https://sketchfab.com/dsm350) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

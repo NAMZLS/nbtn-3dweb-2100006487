@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: #fff;
+    position: fixed;
+    width: 100%;
+}
+
+.menu {
+    float: left;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 35px;
+    font-family: 'Arial, Helvetica, sans-serif';
+    font-size: 20px
+}
+
+.text {
+    text-decoration: #fff;
+    color: #000;
+}
+
+.logo1 {
+    width: 180px;
+    height: 70px;
+    padding-bottom: 4;
+}
+
+.header-login {
+    display: flex;
+    gap: 40px;
+}
+
+.lg {
+    width: 60px;
+    height: 50px;
+    padding-right: 40px;
+}
+
+.item1 {
+    text-decoration: #fff;
+    color: #000;
+}
+
+.picture {
+    width: 300px;
+    height: 280px;
+}
+
+.idea-container {
+    display: flex;
+    flex-flow: wrap;
+    border: 3px solid #fff;
+}
+
+.idea {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.model {
+    display: flex;
+    width: 500px;
+    height: 560px;
+    padding-right: 5px;
+    background-color: #fff;
+}
+
+.NAM1 {
+    display: flex;
+    font-size: 15px;
+    background-color: #fff;
+    padding: 20px;
+    position: absolute;
+}
+
+.foster-container {
+    position: absolute;
+    width: 100%;
+    height: 10px;
+    display: inline-block;
+    color: #000;
+}
+
+.NAM {
+    margin-left: 25px;
+}
+
+.foster {
+    margin-left: 50px;
+}
+
+.name {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: #fff;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
+
+.money {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: #fff;
+    color: #000;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.idea a.link {
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 150px;
+    background-color: rgb(28, 21, 21);
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text:hover {
+    color: rgba(84, 192, 41, 0.648)
+}
+
+.menu:hover {
+    color: rgba(84, 192, 41, 0.648)
+}
+
+.name:hover {
+    color: rgba(222, 21, 21, 0.648)
+}
+
+.money:hover {
+    color: rgba(222, 21, 21, 0.648)
+}
+
+.idea a.link:hover {
+    color: rgba(222, 21, 21, 0.648);
+}
